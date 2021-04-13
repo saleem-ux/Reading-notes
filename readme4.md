@@ -1,4 +1,5 @@
-#HTML:
+# HTML:
+
 
 Web pages are electronic versions of some documents. They include  ;
 Structure-text-images
@@ -13,8 +14,8 @@ Attributes
 -	The value is the information or setting for the attribute. It should be placed in double quotes
 -	(Lang) is used to indicate the language used in this element.
 
-![image](https://user-images.githubusercontent.com/82366428/114617419-c4828f80-9cb0-11eb-8cc9-72946cb32d05.png)
 
+![image](https://user-images.githubusercontent.com/82366428/114618402-f9dbad00-9cb1-11eb-807d-0dae4ceb3ab2.png)
 
 
 HTML  stands for  Hyper Text Markup Language.  The HyperText part allows you to create links that allow visitors to move from one page to another quickly and easily.
@@ -73,8 +74,8 @@ wireframe
 
 A design that has all of the information that needs to be on a page is included. ONLY information.
 
+![image](https://user-images.githubusercontent.com/82366428/114618472-0cee7d00-9cb2-11eb-9cbc-bb27402c3e93.png)
 
-![image](https://user-images.githubusercontent.com/82366428/114617502-dfed9a80-9cb0-11eb-90cd-70710e7552f9.png)
 
 
 Three steps have to be followed ; 
